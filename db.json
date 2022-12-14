@@ -1,0 +1,18 @@
+{
+    "variants": [
+        {
+          "nom": "Caitlyn",
+          "id": 544,
+          "color": "red",
+          "image":"https://user-images.githubusercontent.com/120604679/207725656-c7f0e3ec-20fb-4d0c-a8b8-da6707d18053.png",
+          "quantity": 13
+        },
+        {
+          "nom": "Ezreal",
+          "id": 4445,
+          "color": "blue",
+          "image":"https://user-images.githubusercontent.com/120604679/207725756-a8ada83f-b161-4bfb-a0b7-82cef088b82b.jpg",
+          "quantity": 0
+        }
+      ]
+  }
